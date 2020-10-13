@@ -1954,7 +1954,7 @@ a {
 }
 .cid-sanr9zG8Wa {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-sanr9zG8Wa .media-container-row {
@@ -3307,7 +3307,7 @@ a {
 }
 .cid-sayxXTglJ5 {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-sayxXTglJ5 .media-container-row {
@@ -3874,79 +3874,21 @@ a {
     text-align: center;
   }
 }
-.cid-sayGcm1b8W {
-  padding-top: 2rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-sayGcmUi2t {
+.cid-sdi3OeDiIi {
   padding-top: 6rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
+  padding-bottom: 6rem;
+  background-color: #4479d9;
 }
-.cid-sayGcmUi2t .card-box {
-  padding: 2rem;
-  width: 58.33%;
-}
-.cid-sayGcmUi2t .img-wrapper {
-  width: 41.66%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.cid-sayGcmUi2t .img1 {
-  background: #ffe161;
-}
-.cid-sayGcmUi2t .img2 {
-  background: #6592e6;
-}
-.cid-sayGcmUi2t .mbr-iconfont {
-  display: block;
-  font-size: 8rem;
+.cid-sdi3OeDiIi .mbr-section-title {
   color: #ffffff;
-  margin-bottom: 2rem;
 }
-.cid-sayGcmUi2t .card {
-  margin: auto;
-  min-height: 280px;
-  transition: all 0.3s;
+.cid-sdi3Q6vCtL {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #fafafa;
 }
-.cid-sayGcmUi2t .card-wrapper {
-  background: #fafafa;
-  border-radius: 4px;
-  display: flex;
-  overflow: hidden;
-  justify-content: space-between;
-}
-@media (max-width: 992px) {
-  .cid-sayGcmUi2t .card-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-sayGcmUi2t .card-wrapper {
-    flex-direction: column;
-  }
-  .cid-sayGcmUi2t .card-box {
-    padding: 1rem;
-  }
-  .cid-sayGcmUi2t .card-box,
-  .cid-sayGcmUi2t .img-wrapper {
-    width: 100%;
-  }
-  .cid-sayGcmUi2t .img-wrapper {
-    padding: 4rem 1rem;
-  }
-  .cid-sayGcmUi2t .mbr-flex {
-    flex-direction: column-reverse;
-  }
-}
-.cid-sayGcmUi2t .card-subtitle {
-  color: #0077ff;
-}
-.cid-sayGcmUi2t .mbr-text,
-.cid-sayGcmUi2t .link-wrap {
-  color: #555555;
+.cid-sdi3Q6vCtL .mbr-text {
+  color: #c1c1c1;
 }
 .cid-sayGcp6xCZ {
   padding-top: 5rem;
@@ -4365,11 +4307,13 @@ a {
 }
 .cid-sayI1MGLbQ {
   display: flex;
-  background-image: url("../../../assets/images/lego-daniel-cheung-zqqlozygg7g-unsplash-2000x1335.jpg");
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/volodymyr-hryshchenko-v5vqwc9gyeu-unsplash-2000x1333.jpg");
 }
 .cid-sayI1MGLbQ .mbr-overlay {
   background-color: #353535;
-  opacity: 0.5;
+  opacity: 0.4;
 }
 .cid-sayI1MGLbQ .content-wrap {
   padding: 5rem 1rem;
@@ -4411,7 +4355,7 @@ a {
 .cid-saDvWvi3kG img,
 .cid-saDvWvi3kG .item-img {
   height: 100%;
-  height: 300px;
+  height: 200px;
   object-fit: cover;
 }
 .cid-saDvWvi3kG .item:focus,
@@ -4458,6 +4402,7 @@ a {
 }
 .cid-saDvWvi3kG .item-title {
   text-align: left;
+  color: #ff9966;
 }
 .cid-saDvWvi3kG .item-subtitle {
   text-align: left;
@@ -5062,7 +5007,7 @@ a {
 .cid-saj1Z8rX7a {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #40b0bf;
+  background-color: #ffe161;
 }
 .cid-saj1Z8rX7a .mbr-section-title {
   color: #fafafa;
@@ -5138,11 +5083,14 @@ a {
 .cid-saj8LcChbG {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ffe161;
+  background-color: #2299aa;
+}
+.cid-saj8LcChbG .mbr-section-title {
+  color: #ffffff;
 }
 .cid-sah4T1CPs7 {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-sah4T1CPs7 .media-container-row {
@@ -5157,8 +5105,8 @@ a {
   display: flex;
   border-radius: 50%;
   text-align: center;
-  color: #e6c63b;
-  border: 2px solid #e6c63b;
+  color: #2299aa;
+  border: 2px solid #2299aa;
   justify-content: center;
   align-content: center;
   transition: all 0.3s;
@@ -5167,8 +5115,8 @@ a {
   padding: 0.6rem;
 }
 .cid-sah4T1CPs7 .mbr-iconfont-social:hover {
-  background-color: #e6c63b;
-  color: #000000;
+  background-color: #2299aa;
+  color: #ffffff;
 }
 @media (max-width: 768px) {
   .cid-sah4T1CPs7 .icons {
@@ -5183,74 +5131,34 @@ a {
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
-.cid-saykeBl8Rm {
+.cid-sdhZVfjIaQ {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/lego-nathan-duck-unsplash-red-696x392.jpg");
 }
-.cid-saykeBl8Rm .card-box {
-  padding: 2rem;
-  width: 58.33%;
+.cid-sdhZVfjIaQ .card {
+  border-radius: 0;
 }
-.cid-saykeBl8Rm .img-wrapper {
-  width: 41.66%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+@media (min-width: 992px) {
+  .cid-sdhZVfjIaQ .card {
+    border-right: 1px solid white;
+  }
 }
-.cid-saykeBl8Rm .img1 {
-  background: #ffe161;
+@media (max-width: 991px) {
+  .cid-sdhZVfjIaQ .card {
+    border-right: 0px;
+    border-bottom: 1px solid white;
+  }
 }
-.cid-saykeBl8Rm .img2 {
-  background: #22a5e5;
+.cid-sdhZVfjIaQ .wrapper {
+  padding: 30px 0;
 }
-.cid-saykeBl8Rm .mbr-iconfont {
-  display: block;
-  font-size: 8rem;
+.cid-sdhZVfjIaQ .mbr-section-title {
+  color: #fafafa;
+}
+.cid-sdhZVfjIaQ .mbr-text,
+.cid-sdhZVfjIaQ .mbr-section-btn {
   color: #ffffff;
-  margin-bottom: 2rem;
-}
-.cid-saykeBl8Rm .card {
-  margin: auto;
-  min-height: 280px;
-  transition: all 0.3s;
-}
-.cid-saykeBl8Rm .card-wrapper {
-  background: #fafafa;
-  border-radius: 4px;
-  display: flex;
-  overflow: hidden;
-  justify-content: space-between;
-}
-@media (max-width: 992px) {
-  .cid-saykeBl8Rm .card-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-saykeBl8Rm .card-wrapper {
-    flex-direction: column;
-  }
-  .cid-saykeBl8Rm .card-box {
-    padding: 1rem;
-  }
-  .cid-saykeBl8Rm .card-box,
-  .cid-saykeBl8Rm .img-wrapper {
-    width: 100%;
-  }
-  .cid-saykeBl8Rm .img-wrapper {
-    padding: 4rem 1rem;
-  }
-  .cid-saykeBl8Rm .mbr-flex {
-    flex-direction: column-reverse;
-  }
-}
-.cid-saykeBl8Rm .card-subtitle {
-  color: #0077ff;
-}
-.cid-saykeBl8Rm .mbr-text,
-.cid-saykeBl8Rm .link-wrap {
-  color: #555555;
 }
 .cid-sajb4K40bk {
   padding-top: 5rem;
