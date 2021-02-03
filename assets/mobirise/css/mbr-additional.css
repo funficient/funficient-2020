@@ -793,7 +793,7 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.5);
 }
 .cid-sajdxngEkU .navbar.opened {
   transition: all .3s;
@@ -1262,11 +1262,6 @@ a {
     text-align: center;
   }
 }
-.cid-sajdxGu6Y9 {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
 .cid-sajdxJcY7F {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -1435,7 +1430,7 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.5);
 }
 .cid-sanr8FyZK0 .navbar.opened {
   transition: all .3s;
@@ -2058,7 +2053,7 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.5);
 }
 .cid-sayKUQpx4K .navbar.opened {
   transition: all .3s;
@@ -2545,7 +2540,7 @@ a {
   }
 }
 .cid-saDNfLwXAC {
-  padding-top: 5rem;
+  padding-top: 2rem;
   padding-bottom: 5rem;
   background-color: #ffffff;
 }
@@ -2717,7 +2712,7 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.5);
 }
 .cid-sayxXGzMoj .navbar.opened {
   transition: all .3s;
@@ -3348,7 +3343,7 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.5);
 }
 .cid-sayGc788nq .navbar.opened {
   transition: all .3s;
@@ -3663,18 +3658,49 @@ a {
   padding-right: 1.5rem;
   color: #ff6196;
 }
-.cid-sayGckaWrm {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffe161;
+.cid-snYDiJ9LRR {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-snYDiJ9LRR .content-wrapper {
+  background: #fafafa;
+}
+@media (max-width: 991px) {
+  .cid-snYDiJ9LRR .content-wrapper .image-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-snYDiJ9LRR .content-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-snYDiJ9LRR .content-wrapper {
+    padding: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-snYDiJ9LRR .content-wrapper {
+    padding: 5rem 3rem;
+  }
+  .cid-snYDiJ9LRR .content-wrapper .text-wrapper {
+    padding-left: 2rem;
+  }
+}
+.cid-snYDiJ9LRR .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
 }
 .cid-sayGckUwUX {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-sayGckUwUX .media-container-row {
   justify-content: space-between;
+  justify-content: center;
 }
 .cid-sayGckUwUX .text-content {
   max-width: 50%;
@@ -3685,8 +3711,8 @@ a {
   display: flex;
   border-radius: 50%;
   text-align: center;
-  color: #e6c63b;
-  border: 2px solid #e6c63b;
+  color: #000000;
+  border: 2px solid #000000;
   justify-content: center;
   align-content: center;
   transition: all 0.3s;
@@ -3695,8 +3721,8 @@ a {
   padding: 0.6rem;
 }
 .cid-sayGckUwUX .mbr-iconfont-social:hover {
-  background-color: #e6c63b;
-  color: #000000;
+  background-color: #000000;
+  color: #ffffff;
 }
 @media (max-width: 768px) {
   .cid-sayGckUwUX .icons {
@@ -3705,14 +3731,6 @@ a {
   .cid-sayGckUwUX .text-content * {
     text-align: center;
   }
-}
-.cid-sdi3OeDiIi {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #fddd50;
-}
-.cid-sdi3OeDiIi .mbr-section-title {
-  color: #ffffff;
 }
 .cid-sdi3Q6vCtL {
   padding-top: 6rem;
@@ -3890,7 +3908,7 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.5);
 }
 .cid-sah3EOtyvw .navbar.opened {
   transition: all .3s;
@@ -4700,11 +4718,6 @@ a {
 .cid-sah4qWCHiU .mbr-section-title {
   color: #232323;
 }
-.cid-sefF9XC6X9 {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
 .cid-saj0mfjyPq {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -4733,7 +4746,7 @@ a {
 .cid-saj33V7lyq .mbr-iconfont {
   display: block;
   font-size: 5rem;
-  color: #88dd69;
+  color: #232323;
   margin-bottom: 2rem;
 }
 .cid-saj33V7lyq .card-wrapper {
@@ -4855,8 +4868,20 @@ a {
   padding-right: 1.5rem;
   color: #ff6196;
 }
+.cid-snYfZAZQKx {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ff9966;
+}
+.cid-snYfZAZQKx .mbr-section-title {
+  color: #ffffff;
+}
+.cid-snYfZAZQKx .mbr-text,
+.cid-snYfZAZQKx .mbr-section-btn {
+  color: #ffffff;
+}
 .cid-sah4T1CPs7 {
-  padding-top: 15px;
+  padding-top: 45px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
@@ -5141,7 +5166,7 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.5);
 }
 .cid-sah3EOtyvw .navbar.opened {
   transition: all .3s;
@@ -5818,7 +5843,7 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.5);
 }
 .cid-sduqUhOB1R .navbar.opened {
   transition: all .3s;
@@ -6495,7 +6520,7 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.5);
 }
 .cid-sduqQFAEFV .navbar.opened {
   transition: all .3s;
@@ -7172,7 +7197,7 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.5);
 }
 .cid-sdur3MDCEk .navbar.opened {
   transition: all .3s;
@@ -7884,7 +7909,7 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.5);
 }
 .cid-sduxsthrqa .navbar.opened {
   transition: all .3s;
@@ -8486,7 +8511,7 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.5);
 }
 .cid-skKXJgNbBQ .navbar.opened {
   transition: all .3s;
@@ -9009,7 +9034,7 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.5);
 }
 .cid-sniKT6TyX1 .navbar.opened {
   transition: all .3s;
