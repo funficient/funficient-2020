@@ -1043,14 +1043,16 @@ a {
 .cid-sajdxoQpaO {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ff6196;
+  background-color: #ffffff;
 }
 .cid-sajdxoQpaO .mbr-section-title {
   text-align: center;
+  color: #000000;
 }
 .cid-sajdxoQpaO .mbr-text,
 .cid-sajdxoQpaO .mbr-section-btn {
   text-align: center;
+  color: #232323;
 }
 .cid-sefHsWBowN {
   padding-top: 6rem;
@@ -1059,6 +1061,9 @@ a {
 }
 .cid-sefHsWBowN .mbr-text {
   color: #c1c1c1;
+}
+.cid-sefHsWBowN H3 {
+  color: #ff6196;
 }
 .cid-sajfka9sCy {
   padding-top: 4rem;
@@ -1241,8 +1246,8 @@ a {
   display: flex;
   border-radius: 50%;
   text-align: center;
-  color: #ff6196;
-  border: 2px solid #ff6196;
+  color: #000000;
+  border: 2px solid #000000;
   justify-content: center;
   align-content: center;
   transition: all 0.3s;
@@ -1251,7 +1256,7 @@ a {
   padding: 0.6rem;
 }
 .cid-sajdxEYEYO .mbr-iconfont-social:hover {
-  background-color: #ff6196;
+  background-color: #000000;
   color: #ffffff;
 }
 @media (max-width: 768px) {
@@ -1680,14 +1685,16 @@ a {
 .cid-sanr8LOdEo {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #88dd69;
+  background-color: #ffffff;
 }
 .cid-sanr8LOdEo .mbr-section-title {
   text-align: center;
+  color: #000000;
 }
 .cid-sanr8LOdEo .mbr-text,
 .cid-sanr8LOdEo .mbr-section-btn {
   text-align: center;
+  color: #232323;
 }
 .cid-seg4DUqULz {
   padding-top: 6rem;
@@ -1696,6 +1703,9 @@ a {
 }
 .cid-seg4DUqULz .mbr-text {
   color: #c1c1c1;
+}
+.cid-seg4DUqULz H3 {
+  color: #88dd69;
 }
 .cid-sanr8UJJaC {
   padding-top: 4rem;
@@ -2962,14 +2972,16 @@ a {
 .cid-sayxXHTt4A {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ff8a8a;
+  background-color: #ffffff;
 }
 .cid-sayxXHTt4A .mbr-section-title {
   text-align: center;
+  color: #000000;
 }
 .cid-sayxXHTt4A .mbr-text,
 .cid-sayxXHTt4A .mbr-section-btn {
   text-align: center;
+  color: #232323;
 }
 .cid-seg9oSWHLz {
   padding-top: 6rem;
@@ -2978,6 +2990,9 @@ a {
 }
 .cid-seg9oSWHLz .mbr-text {
   color: #c1c1c1;
+}
+.cid-seg9oSWHLz H3 {
+  color: #ff8a8a;
 }
 .cid-sayxXJYvUR {
   padding-top: 4rem;
