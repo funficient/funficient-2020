@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'SulphurPoint-Bold';
+   font-display: swap;
+   src: url('SulphurPoint-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'SulphurPoint-Regular';
+   font-display: swap;
+   src: url('SulphurPoint-Regular/font.ttf');
+}
