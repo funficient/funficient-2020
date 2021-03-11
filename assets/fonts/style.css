@@ -1,5 +1,10 @@
 @font-face {
    font-family: 'SulphurPoint-Bold';
    font-display: swap;
-   src: url('file:///C:/Users/karin/AppData/Local/Mobirise.com/Mobirise/projects/project-2020-09-11_122402/fonts/SulphurPoint-Bold/font.ttf');
+   src: url('SulphurPoint-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'SulphurPoint-Regular';
+   font-display: swap;
+   src: url('SulphurPoint-Regular/font.ttf');
 }
