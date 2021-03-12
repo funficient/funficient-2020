@@ -3627,6 +3627,33 @@ a {
   text-align: left;
   color: #232323;
 }
+.cid-srrGfBMYia {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/elice-moore-e-aupyxbjm-unsplash-1594x1173.jpg");
+}
+.cid-srrGfBMYia .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-srrGfBMYia form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-srrGfBMYia form .mbr-section-btn .btn {
+  display: inline-flex;
+}
+@media (max-width: 991px) {
+  .cid-srrGfBMYia form .mbr-section-btn .btn {
+    width: 100%;
+  }
+}
+.cid-srrGfBMYia .mbr-section-title {
+  color: #ffffff;
+}
+.cid-srrGfBMYia .mbr-section-subtitle {
+  color: #ffffff;
+}
 .cid-srmPwp4i7x {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -3667,47 +3694,6 @@ a {
 .cid-srmPwp4i7x [class*=" socicon-"]:before {
   line-height: 55px;
   padding: .6rem;
-}
-.cid-srmKvMDopZ {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #ff6196;
-}
-.cid-srmKvMDopZ .mbr-text,
-.cid-srmKvMDopZ .mbr-section-btn {
-  color: #232323;
-}
-@media (max-width: 991px) {
-  .cid-srmKvMDopZ .mbr-text,
-  .cid-srmKvMDopZ .mbr-section-btn {
-    text-align: center;
-  }
-}
-@media (max-width: 991px) {
-  .cid-srmKvMDopZ .mbr-text,
-  .cid-srmKvMDopZ .mbr-section-title {
-    text-align: center;
-  }
-}
-.cid-srmKvMDopZ a.btn {
-  height: 100%;
-  margin: 0;
-}
-.cid-srmKvMDopZ .mbr-section-btn {
-  display: flex;
-  margin-bottom: 1rem;
-  width: 100%;
-}
-.cid-srmKvMDopZ .mbr-section-btn .btn {
-  width: 100%;
-}
-@media (max-width: 991px) {
-  .cid-srmKvMDopZ .image-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-.cid-srmKvMDopZ .justify-content-center {
-  align-items: center;
 }
 .cid-sayGcp6xCZ {
   padding-top: 5rem;
@@ -7145,12 +7131,12 @@ a {
 }
 .cid-sniKT7Oeyy .mbr-section-title {
   text-align: right;
-  color: #000000;
+  color: #ffffff;
 }
 .cid-sniKT7Oeyy .mbr-text,
 .cid-sniKT7Oeyy .mbr-section-btn {
   text-align: right;
-  color: #232323;
+  color: #ffffff;
 }
 .cid-sniKT8L5Nx {
   padding-top: 6rem;
@@ -7250,93 +7236,6 @@ a {
 .cid-snjcz5qErd .card-box {
   text-align: left;
 }
-.cid-snj3SmSFmz {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #88dd69;
-}
-.cid-snj3SmSFmz .mbr-section-title {
-  color: #ffffff;
-}
-.cid-snj3TXBgp4 {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-snj3UZwMKY {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background-color: #ffffff;
-}
-.cid-snj3UZwMKY .line {
-  background-color: #88dd69;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-snj3W44nZ7 {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-sniRc5WXIa {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #88dd69;
-}
-.cid-sniRc5WXIa .mbr-section-title {
-  color: #ffffff;
-}
-.cid-sniRLA5Jwq {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-sniREggDTR {
-  padding-top: 1rem;
-  padding-bottom: 2rem;
-  background-color: #ffffff;
-}
-.cid-sniREggDTR .line {
-  background-color: #88dd69;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-sniUD2Qziz {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-sniZFFeIyL {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #88dd69;
-}
-.cid-sniZFFeIyL .mbr-section-title {
-  color: #ffffff;
-}
-.cid-snj01Owrro {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-sniZLU8Mmc {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background-color: #ffffff;
-}
-.cid-sniZLU8Mmc .line {
-  background-color: #88dd69;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-sniZJIai9W {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
 .cid-sniKTc2TCL {
   padding-top: 3rem;
   padding-bottom: 0rem;
@@ -7374,6 +7273,33 @@ a {
 .cid-sniKTc2TCL .image-wrapper img {
   width: 100%;
   object-fit: cover;
+}
+.cid-srrFWSUh7c {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/elice-moore-e-aupyxbjm-unsplash-1594x1173.jpg");
+}
+.cid-srrFWSUh7c .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-srrFWSUh7c form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-srrFWSUh7c form .mbr-section-btn .btn {
+  display: inline-flex;
+}
+@media (max-width: 991px) {
+  .cid-srrFWSUh7c form .mbr-section-btn .btn {
+    width: 100%;
+  }
+}
+.cid-srrFWSUh7c .mbr-section-title {
+  color: #ffffff;
+}
+.cid-srrFWSUh7c .mbr-section-subtitle {
+  color: #ffffff;
 }
 .cid-sniKTjVoEI {
   padding-top: 5rem;
